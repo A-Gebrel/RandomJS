@@ -1,6 +1,5 @@
 # Random JavaScript
-[![star this repo](http://githubbadges.com/star.svg?user=SirAnxiousALot&repo=ML-Using-SKLearnDSS&style=flat)](https://github.com/SirAnxiousALot/ML-Using-SKLearnDSS)
-[![fork this repo](http://githubbadges.com/fork.svg?user=SirAnxiousALot&repo=ML-Using-SKLearnDSS&style=flat)](https://github.com/SirAnxiousALot/ML-Using-SKLearnDSS/fork)
+
 Basically, where I make projects for fun and throw them to never see the light of day again.
 Who knows, Maybe one day I'm going to need one of those in a project :shrug:
 
